@@ -41,5 +41,7 @@
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-11 | 00-setup-and-tooling/01-dev-environment | 2/3 | 설치 순서(1층 시스템 기반부터)와 수리 순서(문제 층부터)를 혼동. 버전 문자열 vs 튜플 비교 이해함 |
 
 ## Review queue
+- 00-setup-and-tooling/01-dev-environment: 4층 구조의 설치 순서(아래층부터, 시스템 기반이 먼저)
